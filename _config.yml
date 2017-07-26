@@ -4,6 +4,7 @@ version: "v1"
 description: "GROW"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+permalinks: pretty
 
 # Tachyons Version
 tv: "4.7.4"
